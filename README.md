@@ -1,4 +1,4 @@
-# Car Inventory System (DB Project)
+# Car Inventory System
 
 ![PHP](https://img.shields.io/badge/PHP-v7.4+-777BB4?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
